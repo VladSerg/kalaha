@@ -1,0 +1,6 @@
+<properties>
+  <sonar.projectKey>VladSerg_kalaha</sonar.projectKey>
+  <sonar.organization>vladserg</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>fc85daa52ecbeb18565ef19cf6f210b09397ff49</sonar.login>
+</properties>
